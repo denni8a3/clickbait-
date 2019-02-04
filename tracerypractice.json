@@ -1,0 +1,83 @@
+{
+	"name": [
+		"Carl",
+		"Justin",
+		"Calvin",
+		"Toby",
+		"Karla",
+		"Jess",
+		"Steph",
+		"Jona",
+		"Mary",
+		"Cindy"
+	],
+	"occupation": [
+		"cop",
+		"soldier",
+		"student",
+		"teacher",
+		"pastor",
+		"free loader",
+		"mason",
+		"farmer",
+		"hunter",
+		"fisher"
+	],
+	"origin": [
+		"#name# a #occupation#, was #always# #expecting# this #new# to #end#. #to# I make #since# the #what# ? If you really want your answer just click here  #an# ."
+	],
+	"always": [
+		"always",
+		"rarely",
+		"sometimes",
+		"hardly",
+		"often",
+		"occasionly",
+		"",
+		"tempoary"
+	],
+	"expecting": [
+		"expecting",
+		"anticipating",
+		"imagining",
+		"predicting"
+	],
+	"new": [
+		"rule",
+		"life",
+		"figure",
+		"treasure",
+		"goal",
+		"car",
+		"house"
+	],
+	"end": [
+		"be a dream",
+		"be the final test",
+		"be the main focus",
+		"be the major key"
+	],
+	"to": [
+		"Why would",
+		"How could",
+		"How should",
+		"What would"
+	],
+	"since": [
+		"me reach",
+		"good use",
+		"a new me around",
+		"flashy enough for all to see"
+	],
+	"what": [
+		"ending of the world",
+		"ending of my youth",
+		"switching of personality"
+	],
+	"an": [
+		"www.wesolve.net",
+		"http:/www..stophere.org",
+		"www.gotanswer.com",
+		"http:/www.givefacts.edu"
+	]
+}
